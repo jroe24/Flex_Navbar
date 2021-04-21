@@ -1,0 +1,33 @@
+.nav{
+    width: 900px;
+    height: 75px;
+    background-color: black;
+    display: flex;
+    padding: 5px 10px;
+}
+.nav-links{
+    display: flex;
+    padding-left: 50%;
+    justify-content: flex-end;
+    align-content: center;
+}
+a{
+    display: flex;
+    margin: 10px;
+    color:whitesmoke;
+}
+.nav-title{
+    align-content: flex-start;
+}
+h1{
+    color: whitesmoke;
+}
+li{
+    list-style-type: none;
+}
+button{
+    margin-top: 10px;
+    margin-left: 8px;
+    background-color: blue ;
+    color: whitesmoke;
+}
